@@ -46,6 +46,6 @@ To get started with the *Get Certificate App*, follow these steps:
       
  🔑 Key Features
  
--*Result Retrieval*: User can explore the realworld technologies and coursese. <br>
--*Certificate Issuance*: Admins is the one that adding the course details to the website update and removing.<br>
+-*Uesr*: User can explore the realworld technologies and coursese. <br>
+-*Admin*: Admins is the one that adding the course details to the website update and removing.<br>
 -*User Management*: User can sign up and log .<br>
